@@ -7,4 +7,4 @@
 <ol>
 <i> <i>Black Adam</i> </li><br><i>Directed by: Jaume Collet-Serra<br>
 <i> <i>Spiderman</i> </li><br><i>Directed by: Sam Raimi
- 
+    
